@@ -1,0 +1,67 @@
+[
+  {
+    "id": "kbqa-r1",
+    "source": "papers/01_KBQA-R1_images/x1.png",
+    "figure": "Paper framework / overview"
+  },
+  {
+    "id": "gapd",
+    "source": "tmp/presentations/defense-rebuild/assets/gapd_framework_clean.png",
+    "figure": "Paper framework / overview"
+  },
+  {
+    "id": "evisd",
+    "source": "tmp/presentations/defense-rebuild/assets/evisd_framework_clean.png",
+    "figure": "Paper framework / overview"
+  },
+  {
+    "id": "hoprefusalbench",
+    "source": "tmp/presentations/defense-rebuild/assets/hop_pipeline_final.png",
+    "figure": "Paper framework / overview"
+  },
+  {
+    "id": "divide-then-align",
+    "source": "papers/02_Divide-Then-Align_images/x2.png",
+    "figure": "Paper framework / overview"
+  },
+  {
+    "id": "ttarag",
+    "source": "papers/03_Predict-the-Retrieval_images/x1.png",
+    "figure": "Paper framework / overview"
+  },
+  {
+    "id": "toolweaver",
+    "source": "papers/04_ToolWeaver_images/x1.png",
+    "figure": "Paper framework / overview"
+  },
+  {
+    "id": "multimodal-rag",
+    "source": "papers/05_Multimodal-Adaptive-RAG_images/x1.png",
+    "figure": "Paper framework / overview"
+  },
+  {
+    "id": "dive",
+    "source": "papers/06_DIVE_images/x1.png",
+    "figure": "Paper framework / overview"
+  },
+  {
+    "id": "sslre",
+    "source": "tmp/homepage/noise-framework.png",
+    "figure": "Paper framework / overview"
+  },
+  {
+    "id": "uncertainty-calibration",
+    "source": "papers/08_Uncertainty-Calibration_images/x1.png",
+    "figure": "Calibration plot (Figure 1)"
+  },
+  {
+    "id": "pin-tuning",
+    "source": "papers/09_Pin-Tuning_images/x2.png",
+    "figure": "Paper framework / overview"
+  },
+  {
+    "id": "gslb",
+    "source": "papers/10_GSLB_images/x1.png",
+    "figure": "Paper framework / overview"
+  }
+]
