@@ -1,5 +1,4 @@
 {
-  "sjtu.png": "https://www.sjtu.edu.cn/resource/assets/img/ico/favicon.png",
   "icml.svg": "https://icml.cc/static/core/img/ICML-logo.svg",
   "iclr.svg": "https://iclr.cc/static/core/img/ICLR-logo.svg",
   "neurips.svg": "https://neurips.cc/static/core/img/NeurIPS-logo.svg",
@@ -14,5 +13,6 @@
   "kdd.png": "https://kdd.org/images/kdd.png",
   "ieee.svg": "https://attend.ieee.org/wcci-2026/wp-content/themes/ieee-dci/images/logo-ieee.svg",
   "ustc-seal.png": "https://sz.ustc.edu.cn/upload/202106/24/202106241717068493.jpg (blue seal cropped from official identity sheet)",
-  "wcci2026.png": "https://wcci.klinkhamergroup.com/_assets/images/banner.jpg (congress mark cropped from official registration banner)"
+  "wcci2026.png": "https://wcci.klinkhamergroup.com/_assets/images/banner.jpg (congress mark cropped from official registration banner)",
+  "sjtu-seal.png": "https://vi.sjtu.edu.cn/img/base/Logo.png (240 x 240 official seal from the visual identity website)"
 }

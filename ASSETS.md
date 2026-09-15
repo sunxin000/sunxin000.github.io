@@ -7,7 +7,8 @@ The page uses local images so the school, company, and publication visuals do no
 Exact download URLs are recorded in `images/logos/sources.json`. Logos identify the corresponding institutions or publication venues; all marks belong to their respective owners.
 
 - USTC: blue seal cropped from the university's official visual identity sheet.
-- SJTU, CASIA, and ByteDance: icons served by the institutions' official websites.
+- SJTU: 240 x 240 standard seal from the university's official visual identity website, replacing the 32 x 32 favicon.
+- CASIA and ByteDance: icons served by the institutions' official websites.
 - Ant Group: company symbol sourced from CompaniesLogo's Ant Group page.
 - ACL 2025, EMNLP 2023/2026, ICASSP 2026: year-specific official conference marks.
 - ICML, ICLR, NeurIPS, KDD, AAAI: official conference or organizing association marks; the adjacent text specifies the year and publication status.
