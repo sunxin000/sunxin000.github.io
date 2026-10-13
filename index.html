@@ -342,7 +342,7 @@
 <footer>
   <div class="container">
     <p>&copy; 2026 Xin Sun. Last updated: October 2026.</p>
-    <p>👀 Page views: <span id="busuanzi_page_pv">—</span></p>
+    <p>👀 Page views: <span id="busuanzi_page_pv">—</span><span id="page-views-local" hidden>see the <a href="https://sunxin000.github.io/">live site</a></span></p>
   </div>
 </footer>
 
@@ -352,6 +352,16 @@
   <p id="figure-caption"></p>
 </dialog>
 <script src="js/main.js" defer></script>
-<script src="https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js" defer></script>
+<script>
+  if (location.hostname === 'sunxin000.github.io') {
+    const counterScript = document.createElement('script');
+    counterScript.src = 'https://cdn.busuanzi.cc/busuanzi/3.6.9/busuanzi.min.js';
+    counterScript.async = true;
+    document.body.appendChild(counterScript);
+  } else {
+    document.getElementById('busuanzi_page_pv').hidden = true;
+    document.getElementById('page-views-local').hidden = false;
+  }
+</script>
 </body>
 </html>
